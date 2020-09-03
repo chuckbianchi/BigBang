@@ -22,11 +22,9 @@ body {
   height: 60px;
   background: url('/assets/images/login_title.png') no-repeat center;
 }
-
 .reg-box {
   display: none;
 }
-
 .layui-form {
   padding: 0 30px;
 }
@@ -39,7 +37,6 @@ body {
 .links a {
   font-size: 12px;
 }
-
 .layui-form-item {
   position: relative;
 }
